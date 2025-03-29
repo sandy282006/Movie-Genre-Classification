@@ -1,0 +1,13 @@
+movie-genre-classification/
+│
+├── data/                   # Dataset
+│   └── movie_plots.csv     # Movie plot descriptions dataset
+├── scripts/                # Python scripts
+│   ├── data_preprocessing.py
+│   ├── feature_extraction.py
+│   ├── model_training.py
+│   └── evaluation.py
+├── models/                 # Saved models
+├── visualizations/         # Plots and graphs
+├── README.md               # Project documentation
+└── requirements.txt        # Python dependencies
